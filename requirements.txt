@@ -1,0 +1,5 @@
+ai-edge-litert>=2.1
+opencv-python>=4.5
+numpy>=1.23
+pillow>=9.0
+mss>=9.0
